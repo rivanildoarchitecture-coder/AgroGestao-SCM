@@ -1,0 +1,5 @@
+Sistema AgroGestão
+- Cadastro de produtores
+- Cadastro de propriedades
+- Controle de produção
+- Relatórios
